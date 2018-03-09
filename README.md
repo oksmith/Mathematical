@@ -1,5 +1,5 @@
 # Mathematical
-Based on solutions to Project Euler problems, this space is intended for all .cpp files needed to solve a few problems that I found an interest in.
+This space is intended for all .cpp files needed to solve a few mathematics problems that I found an interest in. Based on generalised solutions to Project Euler problems.
 
 See Project Euler here: https://projecteuler.net/about 
 
