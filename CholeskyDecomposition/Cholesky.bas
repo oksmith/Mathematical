@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module2"
 Function Cholesky(matrix As Range)
  
 Dim L() As Double, S As Double
